@@ -1,0 +1,192 @@
+########## Balances ##########
+Bittrex X BTC X USD
+Binance X BTC X USD
+Cold X BTC X USD
+
+Total capital X BTC X USD
+
+########## Ideal portfolio ##########
+XRP X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+ETH X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+LTC X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+BTC X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+ADA X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+XEM X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+DASH X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+XLM X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+XMR X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+EOS X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+NEO X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+QTUM X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+XVG X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+TRX X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+LSK X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+OMG X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+ICX X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+ARDR X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+PPT X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+ZEC X% X => X% X [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+
+Portfolio change: [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+Bitcoin change: [ X% 1d | X% 7d | X% 30d | X% 60d | X% 90d ]
+
+########## Binance ##########
+BTC X% X
+ADA X% X
+EOS X% X
+LTC X% X
+ETH X% X
+TRX X% X
+XMR X% X
+ICX X% X
+XVG X% X
+PPT X% X
+DASH X% X
+LSK X% X
+OMG X% X
+QTUM X% X
+XLM X% X
+NEO X% X
+ZEC X% X
+XRP X% X
+
+Added: 
+Removed: 
+Ignored: BCH, SUB, ETC
+
+Sell XRP X
+Sell ADA X
+Buy NEO X
+Buy LSK X
+Buy EOS X
+Buy ETH X
+Buy TRX X
+Buy QTUM X
+Buy LTC X
+Buy ICX X
+Buy DASH X
+Buy PPT X
+Buy OMG X
+Buy ZEC X
+Buy XLM X
+Buy XVG X
+Buy XMR X
+
+########## Bittrex ##########
+XEM X% X
+BTC X% X
+ADA X% X
+LTC X% X
+ETH X% X
+XMR X% X
+ARDR X% X
+XVG X% X
+DASH X% X
+LSK X% X
+OMG X% X
+QTUM X% X
+XLM X% X
+NEO X% X
+ZEC X% X
+XRP X% X
+
+Added: 
+Removed: 
+Ignored: BTG
+
+Sell XRP X
+Sell ADA X
+Buy NEO X
+Buy LSK X
+Buy XMR X
+Buy LTC X
+Buy QTUM X
+Buy ETH X
+Buy XEM X
+Buy DASH X
+Buy OMG X
+Buy ARDR X
+Buy ZEC X
+Buy XLM X
+Buy XVG X
+
+Transfer X NEO to cold wallet (X% => X%)
+Transfer X ETH to cold wallet (X% => X%)
+Transfer X QTUM to cold wallet (X% => X%)
+Transfer X LTC to cold wallet (X% => X%)
+Transfer X DASH to cold wallet (X% => X%)
+Transfer X BTC to cold wallet (X% => X%)
+Transfer X ZEC to cold wallet (X% => X%)
+Transfer X XLM to cold wallet (X% => X%)
+
+Do you want to perform the rebalancing now? [y/N]: y
+
+########## Live rebalancing ##########
+
+Apply delta on Binance
+Sell X XRP at X BTC
+Processing DONE!
+Sell X ADA at X BTC
+Processing DONE!
+Buy X NEO at X BTC
+Processing DONE!
+Buy X LSK at X BTC
+Processing DONE!
+Buy X EOS at X BTC
+Processing DONE!
+Buy X ETH at X BTC
+Processing DONE!
+Buy X TRX at X BTC
+Processing DONE!
+Buy X QTUM at X BTC
+Processing DONE!
+Buy X LTC at X BTC
+Processing DONE!
+Buy X ICX at X BTC
+Processing DONE!
+Buy X DASH at X BTC
+Processing DONE!
+Buy X PPT at X BTC
+Processing DONE!
+Buy X OMG at X BTC
+Processing DONE!
+Buy X ZEC at X BTC
+Processing DONE!
+Buy X XLM at X BTC
+Processing DONE!
+Buy X XVG at X BTC
+Processing DONE!
+Buy X XMR at X BTC
+Processing DONE!
+
+Apply delta on Bittrex
+Sell X XRP at X BTC
+Processing DONE!
+Sell X ADA at X BTC
+Processing DONE!
+Buy X NEO at X BTC
+Processing DONE!
+Buy X LSK at X BTC
+Processing DONE!
+Buy X XMR at X BTC
+Processing DONE!
+Buy X LTC at X BTC
+Processing DONE!
+Buy X QTUM at X BTC
+Processing DONE!
+Buy X ETH at X BTC
+Processing DONE!
+Buy X XEM at X BTC
+Processing DONE!
+Buy X DASH at X BTC
+Processing DONE!
+Buy X OMG at X BTC
+Processing DONE!
+Buy X ARDR at X BTC
+Processing DONE!
+Buy X ZEC at X BTC
+Processing DONE!
+Buy X XLM at X BTC
+Processing DONE!
+Buy X XVG at X BTC
+Processing DONE!
